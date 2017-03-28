@@ -1,0 +1,13 @@
+body {
+    width: 1000px;
+}
+
+.btn {
+    width:200px;
+    margin-left: 480px;
+    margin-top: 30px;
+}
+
+#canvas {
+    margin-left: 350px;
+}
